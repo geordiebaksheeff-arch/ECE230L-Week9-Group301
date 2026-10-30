@@ -16,6 +16,7 @@ Geordie Baksheeff
 
 ## Summary
 
+Learning how to implement memory in a digital circuit using d-latchs and basic registry/memory addressing using multiplex/demultiplexs
 
 ## Lab Questions
 
@@ -25,4 +26,6 @@ Geordie Baksheeff
 
 ### What is the meaning of always @(*) in a sensitivity block?
 
+
 ### What importance is memory to digital circuits?
+Being able to store a value is the first step to creating a proper computer. It allows us to save and read a value for future use without having to manually setting switches/pressing buttons.
