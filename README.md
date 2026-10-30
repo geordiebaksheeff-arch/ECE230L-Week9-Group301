@@ -23,6 +23,7 @@ Learning how to implement memory in a digital circuit using d-latchs and basic r
 
 ###  Why can we not just use structural Verilog to implement latches?
 
+We can't use it because the latch relies on a combinatorial loop to work. By switching it to a behavioral condition it allows Verilog to do the work required for the latch's loop to work without any additional input from the user.
 
 ### What is the meaning of always @(*) in a sensitivity block?
 
