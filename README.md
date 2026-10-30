@@ -12,12 +12,16 @@ In this lab, you learned about the basic building block of sequential circuits: 
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+Geordie Baksheeff
 
 ## Summary
 
+
 ## Lab Questions
 
+
 ###  Why can we not just use structural Verilog to implement latches?
+
 
 ### What is the meaning of always @(*) in a sensitivity block?
 
